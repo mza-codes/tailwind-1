@@ -1,22 +1,20 @@
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/V30KnKC/apple-touch-icon-Copy.png" width="60" alt="apple-touch-icon-Copy" border="0"></a>
+  <a href="#"><img src="https://github.com/mza-codes/tailwind-1/blob/7450e48a90bd4b8f97e395459bc8a12e7f79f68c/public/logo.png" width="60" alt="_logo" border="0"></a>
   <br />
-  <h3 align="center">Alternative to Create React App</h3>
+  <h3 align="center">A Simple Image Lister</h3>
 
   <p align="center">
   <b> Integrated With tailwindcss! </b>
   <br />
-    <b> Added Extra Fonts Including Poppins!</b>
-    <br />
-    <b> Based on Yarn, Added Axios & Router-Dom!</b>
+    <b>Created from custom <a href="https://github.com/mza-codes/minimal-react/">tailwindcss</a> template !</b>
     <br />
     <b> Feel Free to Use!</b>
-    <br /><br />
-    <a href="https://github.com/mza-codes/"><strong>Author</strong></a>
-    ·
-    <a href="https://github.com/mza-codes/bgRemover/issues/"><strong>Report</strong></a>
-    ·
-    <a href="https://github.com/mza-codes/bgRemover/pulls/"><strong>Pull Request</strong></a>
+    <br />
+    <a href="https://github.com/mza-codes/"><strong>mza-codes</strong></a>
+    <br />
+    <a href="https://github.com/mza-codes/tailwind-1/pulls/"><strong>Pull Request</strong></a>
+    <br />
+    <a href="https://github.com/mza-codes/tailwind-1/issues/"><strong>Report</strong></a>
   </p>
 </p>
 
